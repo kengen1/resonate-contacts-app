@@ -1,7 +1,8 @@
 ## Deployed Site:
 ### To view the deployed version of this project, please visit: https://kengen1.github.io/resonate-contacts-app/
 
-### in order to run this project you'll need to install Node.js and NPM
+## Running the Project Locally:
+in order to run this project locally on your own machine, you'll need to install Node.js and NPM
 Versions used when developing this project were:
 NodeJS - v18.13.0
 NPM - v9.6.2
