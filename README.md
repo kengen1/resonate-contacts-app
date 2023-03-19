@@ -1,4 +1,4 @@
-##To view the deployed version of this project, please visit:
+## To view the deployed version of this project, please visit:
 https://kengen1.github.io/resonate-contacts-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
