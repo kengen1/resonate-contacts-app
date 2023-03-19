@@ -1,6 +1,10 @@
-## To view the deployed version of this project, please visit:
-https://kengen1.github.io/resonate-contacts-app/
+## Deployed Site:
+### To view the deployed version of this project, please visit: https://kengen1.github.io/resonate-contacts-app/
 
+### in order to run this project you'll need to install Node.js and NPM
+Versions used when developing this project were:
+NodeJS - v18.13.0
+NPM - v9.6.2
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
